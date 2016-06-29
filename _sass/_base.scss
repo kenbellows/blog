@@ -116,9 +116,20 @@ blockquote {
     font-size: 18px;
     letter-spacing: -1px;
     font-style: italic;
+    overflow: hidden;
+
+    &.bigquote, .bigquote {
+      font-size: 24px;
+    }
 
     > :last-child {
         margin-bottom: 0;
+    }
+
+    > footer, > cite, > footer cite {
+      font-style: normal;
+      float: right;
+      clear: both;
     }
 }
 
