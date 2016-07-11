@@ -1,0 +1,9 @@
+Math:
+  Matrix multiplication as row and column operations
+  Matrix multiplication follow-up with Legos
+  Trig functions (sine, cosine, tangent) described as ratios on the unit circle
+
+Society:
+ >Index people vs search engine people
+
+
