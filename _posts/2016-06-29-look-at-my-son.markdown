@@ -5,7 +5,7 @@ date:   Wed, Jun 29, 2016 10:21:40 AM
 categories: life 
 ---
 
-![My son, Emerson]({{site.url}}/images/emerson_2016-06-28.jpg)
+![My son, Emerson]({{site.baseurl}}/images/emerson_2016-06-28.jpg)
 
 Today my son, Emerson, is 34 days old. I am terrified of being a father.
 
