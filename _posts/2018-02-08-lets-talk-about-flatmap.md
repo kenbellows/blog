@@ -1,11 +1,11 @@
 ---
 title:  "Let's talk about `flatMap`"
-date: Thu, Feb 08, 2018 12:34:36 PM
+date: Thu, Feb 08, 2018 04:06:33 PM
 layout: post
 categories: javascript, coding, esnext
 ---
 
-# Let's talk about `flatMap()`
+# Let's talk about `.flatMap()`
 
 I learned something this morning via [this tweet](https://twitter.com/jaffathecake/status/961585899275542528) from
 Jake Archibald ([@jaffathecake](https://twitter.com/jaffathecake)) that is deeply exciting to me: JavaScript Arrays
